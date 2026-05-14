@@ -1,5 +1,34 @@
-# Welcome to GitHub Desktop!
+🍕 Pizza Sales SQL Analysis Project
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+ 📌 Project Overview
+This project is based on Pizza Sales Data Analysis using PostgreSQL.  
+It contains SQL queries ranging from basic to advanced level for analyzing sales, revenue, order trends, and customer ordering patterns.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+The project demonstrates practical usage of:
+- SQL Queries
+- Joins
+- Aggregate Functions
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- Revenue Analysis
+
+---
+
+🛠️ Technologies Used
+- PostgreSQL
+- pgAdmin 4
+- SQL
+
+---
+
+## 📂 Project Structure
+
+```text
+pizza-sales-sql-project/
+│
+├── schema.sql
+├── basic query(q1_10.sql)
+├── intermidate query(q11_20.sql)
+├── advandes query(q21_30.sql)
+└── README.md
